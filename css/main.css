@@ -1,0 +1,16 @@
+body{
+  height: 200em;
+}
+.navbar, .hero {
+  background: #6610f2;
+}
+.navbar navbar-nav a {
+  color: white;
+}
+.navbar-brand {
+  font-weight: bold;
+  margin-right: 2em;
+}
+.hero {
+  color: white;
+}
